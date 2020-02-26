@@ -39,9 +39,18 @@ https://github.com/apache/maven
 
 # Front 
 
-web template
+web template:
+  
+  VUE:
 
 https://github.com/Armour/vue-typescript-admin-template
+
+
+https://github.com/PanJiaChen/vue-element-admin-site
+
+A production-ready front-end solution for admin interfaces. It is based on vue and uses the UI Toolkit element-ui.
+
+vue-element-admin is based on the newest development stack of vue and it has a built-in i18n solution, typical templates for enterprise applications, and lots of awesome features. It helps you build large and complex Single-Page Applications. I believe whatever your needs are, this project will help you.
 
 # Go
 https://github.com/aimtime/gardens
