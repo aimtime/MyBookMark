@@ -1,6 +1,6 @@
 # Java 
 
-### framework
+### Framework
   
 https://github.com/spring-projects/spring-framework
 
@@ -28,7 +28,7 @@ https://github.com/apache/tomcat
 https://github.com/luffyke/learn_undertow
 
 
-### Open framework
+### Open Source
 
 https://github.com/linlinjava/litemall
 
@@ -54,7 +54,7 @@ An excellent open source blog publishing application. | 一个优秀的开源博
   https://github.com/wuyouzhuguli/Material-Design
 
   
-  VUE:
+  vue:
 
   https://github.com/Armour/vue-typescript-admin-template
 
