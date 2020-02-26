@@ -36,9 +36,6 @@ https://github.com/halo-dev/halo
 
 An excellent open source blog publishing application. | 一个优秀的开源博客发布应用
 
-# DevOps
-
-https://github.com/apache/maven
 
 # Front 
 
@@ -69,6 +66,8 @@ https://github.com/apache/maven
 
   https://github.com/vuetifyjs/vuetify
 
+# DevOps
+https://github.com/apache/maven
 
 # Go
 https://github.com/aimtime/gardens
