@@ -45,6 +45,7 @@ web template:
 
 https://github.com/Armour/vue-typescript-admin-template
 
+vue-typescript-admin-template is a production-ready front-end solution for admin interfaces based on vue, typescript and UI Toolkit element-ui. The original Javascript version code vue-element-admin was written by PanJiaChen.
 
 https://github.com/PanJiaChen/vue-element-admin-site
 
