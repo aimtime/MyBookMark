@@ -26,7 +26,8 @@ Google core libraries for Java
 
 https://github.com/google/guava
 
-A set of tools that keep Java sweet.
+A set of tools that keep Java sweet
+
 https://github.com/looly/hutool
 
 ### Web Server
