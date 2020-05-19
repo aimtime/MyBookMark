@@ -47,6 +47,25 @@ https://github.com/halo-dev/halo
 
 An excellent open source blog publishing application. | 一个优秀的开源博客发布应用
 
+### 后台管理框架
+https://gitee.com/jeecg/jeecg-boot Apache-20.0
+前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT
+集成Websocket消息通知机制
+提供单点登录CAS集成方案，项目中已经提供完善的对接代码
+--以下2个商业授权
+集成工作流activiti
+支持SAAS服务模式，提供SaaS多租户架构方案
+
+https://gitee.com/jeecg/jeewx-boot 免费微信管家系统
+采用SpringBoot2.1.3 + Mybatis + Velocity 框架技术。支持微信公众号、微信小程序、微信第三方平台（扫描授权公众号）、抽奖活动等。JeewxBoot实现了系统权限管理、公众号管理、抽奖活动等基础功能
+
+https://gitee.com/log4j/pig LGPL-3.0
+基于Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的RBAC 权限管理系统
+基于数据驱动视图的理念封装 element-ui，即使没有 vue 的使用经验也能快速上手
+提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持
+提供 lambda 、stream api 、webflux 的生产实践
+
+https://gitee.com/stylefeng/guns
 
 # Front 
 
@@ -63,7 +82,7 @@ An excellent open source blog publishing application. | 一个优秀的开源博
   https://github.com/wuyouzhuguli/Material-Design
 
   
-  vue:
+  VUE:
 
   https://github.com/Armour/vue-typescript-admin-template
 
