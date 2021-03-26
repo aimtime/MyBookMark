@@ -99,12 +99,16 @@ https://gitee.com/stylefeng/guns
   Study:
 
   https://github.com/biaochenxuying/vue-family-mindmap
+  
+  http://hcysun.me/vue-design/zh/essence-of-comp.html#%E7%BB%84%E4%BB%B6%E7%9A%84%E4%BA%A7%E5%87%BA%E6%98%AF%E4%BB%80%E4%B9%88
 
   https://github.com/answershuto/learnVue
+  
   Vue.js源码分析，记录了个人学习Vue.js源码的过程中的一些心得以及收获。以及对于Vue框架，周边库的一些个人见解。
   在学习的过程中我为Vue.js（2.3.0）、Vuex（2.4.0）、Vue-router（3.0.1）加上了注释，分别在文件夹vue-src、vuex-src以及vue-router-src中，希望可以帮助有需要的同学更好地学习理解Vue.js及周边库的源码。
 
   https://github.com/qq281113270/vue
+  
   这个vue源码逐行分析，我基本每一行都打上注释，加上整个框架的流程思维导图，基本上是小白也能看懂的vue源码了
 
   https://github.com/liutao/vue2.0-source
@@ -113,6 +117,8 @@ https://gitee.com/stylefeng/guns
   https://vue3js.cn/docs/zh/
 
   https://vue3js.cn/start/
+  
+  
 
 # DevOps
 https://github.com/apache/maven
