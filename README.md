@@ -137,5 +137,7 @@ Spring:
 
 https://github.com/wuyouzhuguli/SpringAll
 
+https://github.com/xkcoding/spring-boot-demo
+
 # Life
 https://github.com/chinese-poetry/chinese-poetry
